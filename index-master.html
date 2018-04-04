@@ -29,7 +29,7 @@
     <script>
       Reveal.initialize({
         multiplex:{
-          secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
+          secret: "15228552095843997601", // Obtained from the socket.io server. Gives this (the master) control of the presentation
           id: "9d2071b683736dd7",
           url: "https://reveal-js-multiplex-ccjbegmaii.now.sh" // Location of socket.io server
         },
@@ -44,7 +44,7 @@
         { src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } },
         { src: 'reveal.js/plugin/notes/notes.js' },
                 { src: 'https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js', async: true },
-        { src: 'reveal.js/plugin/multiplex/client.js', async: true }
+        { src: 'reveal.js/plugin/multiplex/master.js', async: true }
         ]
       });
     </script>
