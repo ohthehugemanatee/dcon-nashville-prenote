@@ -12,6 +12,9 @@ You push your patches in
 
 And you fork your code about
 
+Note:
+Here are my speaker notes.
+
 
 
 You diff the latest changes
