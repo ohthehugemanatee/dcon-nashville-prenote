@@ -5,12 +5,10 @@
     <title>The Patchey Pokey</title>
     <link rel="stylesheet" href="reveal.js/css/reveal.css">
     <link rel="stylesheet" href="reveal.js/css/theme/simple.css">
-    <!-- 
     <!-- Support earlier versions of IE -->
     <!--[if lt IE 9]>
     <script src="reveal.js/lib/js/html5shiv.js"></script>
-    <!--[endif]-->
-    --> 
+    <!--[endif] -->
   </head>
   <body>
     <div class="reveal">
@@ -28,7 +26,16 @@
     <script src="reveal.js/js/reveal.js"></script>
     <script>
       Reveal.initialize({
+        multiplex:{
+          secret: null, // Obtained from the socket.io server. Gives this (the master) control of the presentation
+          id: "prenoteNashville",
+          url: "https://prenotesocket.azurewebsites.net/" // Location of socket.io server
+        },
         transitionSpeed: "fast",
+        keyboard: false,
+        overview: false,
+        touch: false,
+        controls: false,
         center: true,
         width: "100%",
         height: "100%",
@@ -37,7 +44,9 @@
         { src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
         { src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
         { src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } },
-        { src: 'reveal.js/plugin/notes/notes.js' }
+        { src: 'reveal.js/plugin/notes/notes.js' },
+                { src: 'https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js', async: true },
+        { src: 'reveal.js/plugin/multiplex/client.js', async: true }
         ]
       });
     </script>
