@@ -781,3 +781,62 @@ You never ignore the comments, when you are busy interdiffin’
 
 There’ll be time enough commitin’, when the code is done.
 
+
+***
+
+These Sprints are made for Codin’
+===
+
+
+
+You keep saying you got Drupal 8 point 5 for me
+
+Something you call love but confess
+
+You’ve been word pressin where you shouldn’t’ve been word pressin,
+
+Now your front end is all one big mess
+
+
+
+These sprints are made for coding
+
+And that’s what they’ll do 
+
+One of these sprints is gonna make a committer out of you 
+
+
+
+You keep pulling when you should be pushing
+
+You keep blaming when you oughta not yet
+
+You keep Gruntin’ when you oughta be a Gulping
+
+Your CSS is right but you ain’t been right yet
+
+
+
+These sprints are made for coding
+
+And that’s what they’ll do 
+
+One of these sprints is gonna make a committer out of you 
+
+
+
+You keep coding where you shouldn’t be coding
+
+And you keep thinking core is yours to mess (NO)
+
+I just found me a brand new repo to clone (YEAH)
+
+And what they knows you ain’t had time to learn
+
+
+
+These sprints are made for coding
+
+And that’s what they’ll do 
+
+One of these sprints is gonna make a committer out of you 
