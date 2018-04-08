@@ -793,7 +793,7 @@ You keep saying you got Drupal 8 point 5 for me
 
 Something you call love but confess
 
-You’ve been word pressin where you shouldn’t’ve been word pressin,
+You’ve been Word Pressin' where you shouldn’t’ve been Word Pressin',
 
 Now your front end is all one big mess
 
@@ -807,9 +807,9 @@ One of these sprints is gonna make a committer out of you
 
 
 
-You keep pulling when you should be pushing
+You keep Pulling when you should be Pushing
 
-You keep blaming when you oughta not yet
+You keep Blaming when you oughta not yet
 
 You keep Gruntin’ when you oughta be a Gulping
 
