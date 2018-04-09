@@ -4,9 +4,88 @@ Prenote Karaoke
 (Watch here and sing along! We'll control the slides from the stage)
 
 
+
+***
+Lyrics will appear here
+===
+
+And we'll move them from the stage
+
+As we go along through the concert
+
+... er Prenote!
+
+
 ***
 
-Friends in Low Basements
+Stand by Your Code
+===
+
+
+
+Sometimes it’s hard to be a coder
+
+Giving all your nights to open source.
+
+
+
+You’ll have bad times
+
+And laggy run times
+
+Seeing things that you just can’t debug
+
+
+
+If you love it, you’ll xdebug it,
+
+Even though it’s hard to understand
+
+
+
+And if you love it,
+
+Oh be proud of it,
+
+‘Cause after all it’s just some code
+
+
+
+*Stand by your code*,
+
+Keep checking on the bug queue
+
+Make sure your README’s clear, too
+
+When nights are cold and lonely
+
+
+
+Stand by your code,
+
+And show the world it’s open
+
+Keep giving all the code you can
+
+
+
+Stand by your code.
+
+
+
+Stand by your code
+
+And show the world you love it
+
+Keep giving all the code you can!
+
+Stand by your code!
+
+
+
+***
+
+Geeks in Low Basements
 ===
 
 
@@ -176,70 +255,86 @@ But that server room’s a geek oasis
 Oh, I’ve got friends in low basements
 
 
+
 ***
 
-Stand by Your Code
+Freelance Dev
 ===
 
 
 
-Sometimes it’s hard to be a coder
+Work is a vital thing
 
-Giving all your nights to open source.
-
-
-
-You’ll have bad times
-
-And laggy run times
-
-Seeing things that you just can’t debug
+So I can buy my cowboy bling
 
 
 
-If you love it, you’ll xdebug it,
+I code with wild desire
 
-Even though it’s hard to understand
-
-
-
-And if you love it,
-
-Oh be proud of it,
-
-‘Cause after all it’s just some code
+But no… body wants to hire
 
 
 
-*Stand by your code*,
+I’m a freelance dev who no one wants to hire,
 
-Keep checking on the bug queue
+Rates went down, down, down,
 
-Make sure your README’s clear, too
+And my bills went higher.
 
-When nights are cold and lonely
+Now I’m screwed, screwed, screwed
 
+It’s getting dire
 
-
-Stand by your code,
-
-And show the world it’s open
-
-Keep giving all the code you can
+Got to get hired
 
 
 
-Stand by your code.
+I’m a freelance dev who no one wants to hire,
+
+Rates went down, down, down
+
+And my bills went higher
+
+Now I’m screwed, screwed, screwed
+
+It’s getting dire
+
+Got to get hired
 
 
 
-Stand by your code
+LinkedIn is really neat
 
-And show the world you love it
+To post your skills and feats
 
-Keep giving all the code you can!
+Spent all day on my profile
 
-Stand by your code!
+Then my Inmail went wild
+
+
+
+I’m a freelance dev who no one wants to hire,
+
+Rates went down, down, down
+
+And my bills went higher
+
+Now I’m screwed, screwed, screwed
+
+It’s getting dire
+
+Got to get hired
+
+
+
+No longer screwed, screwed, screwed
+
+I just got hired
+
+I just got hired
+
+I just got hired
+
 
 
 ***
@@ -343,84 +438,6 @@ I’m begging of you please don’t let me down
 
 Caffeine, Caffeine
 
-***
-
-Freelance Dev
-===
-
-
-
-Work is a vital thing
-
-So I can buy my cowboy bling
-
-
-
-I code with wild desire
-
-But no… body wants to hire
-
-
-
-I’m a freelance dev who no one wants to hire,
-
-Rates went down, down, down,
-
-And my bills went higher.
-
-Now I’m screwed, screwed, screwed
-
-It’s getting dire
-
-Got to get hired
-
-
-
-I’m a freelance dev who no one wants to hire,
-
-Rates went down, down, down
-
-And my bills went higher
-
-Now I’m screwed, screwed, screwed
-
-It’s getting dire
-
-Got to get hired
-
-
-
-LinkedIn is really neat
-
-To post your skills and feats
-
-Spent all day on my profile
-
-Then my Inmail went wild
-
-
-
-I’m a freelance dev who no one wants to hire,
-
-Rates went down, down, down
-
-And my bills went higher
-
-Now I’m screwed, screwed, screwed
-
-It’s getting dire
-
-Got to get hired
-
-
-
-No longer screwed, screwed, screwed
-
-I just got hired
-
-I just got hired
-
-I just got hired
 
 
 ***
@@ -537,94 +554,6 @@ Uptime!
 Yeah!
 
 
-***
-
-Bike Shedders in the Sky
-===
-
-
-
-A Drupal dev was working hard one dark and windy day
-
-Upon a bug he stumbled and it got into his way
-
-He looked it up on D dot O, imagine what he saw:
-
-As comments scrolled forever, he recalled Parkinson’s Law
-
-
-
-Yippee yi yay
-
-Yippie Yi yo
-
-The bike shedders in the sky
-
-
-
-The comments came from everywhere, from names he’d never heard
-
-Each with their own opinion, even if it was absurd
-
-And as he reached the bottom, and the pager came in view
-
-His speakers played a distant song, a melody he knew:
-
-
-
-Yippee yi yay
-
-Yippie Yi yo
-
-The bike shedders in the sky
-
-
-
-The tone was tense, the logic tight, each with their own mind set
-
-The header on the issue said “we cannot patch this yet,
-
-For we’ve got to find consensus ‘fore we let this issue by,”
-
-The arguments went round and round, and he heard their mournful cry
-
-
-
-Yippie yi oh
-
-Yippie yi yay
-
-Bike shedders in the sky
-
-
-
-(Let's hear a yeeeeeeHAW!)
-
-
-
-As the comments scrolled on up his screen, he saw one with his name
-
-“If you want to get it fixed in head, escaping all this flame
-
-The community must change today, or with us you will ride
-
-Tryin’ to post the devil’s patch, amid endless outcry
-
-
-
-Yippie yi ooh
-
-Yippie yi yay
-
-
-
-Bike shedders in the sky
-
-Bike shedders in the sky
-
-Bike shedders in the sky
-
-
 
 ***
 
@@ -729,6 +658,111 @@ There’ll be time enough commitin’, when the code is done.
 
 ***
 
+Bike Shedders in the Sky
+===
+
+
+
+A Drupal dev was working hard one dark and windy day
+
+Upon a bug he stumbled and it got into his way
+
+He looked it up on D dot O, imagine what he saw:
+
+As comments scrolled forever, he recalled Parkinson’s Law
+
+
+
+Yippee yi yay
+
+Yippie Yi yo
+
+The bike shedders in the sky
+
+
+
+The comments came from everywhere, from names he’d never heard
+
+Each with their own opinion, even if it was absurd
+
+And as he reached the bottom, and the pager came in view
+
+His speakers played a distant song, a melody he knew:
+
+
+
+Yippee yi yay
+
+Yippie Yi yo
+
+The bike shedders in the sky
+
+
+
+The tone was tense, the logic tight, each with their own mind set
+
+The header on the issue said “we cannot patch this yet,
+
+For we’ve got to find consensus ‘fore we let this issue by,”
+
+The arguments went round and round, and he heard their mournful cry
+
+
+
+Yippie yi oh
+
+Yippie yi yay
+
+Bike shedders in the sky
+
+
+
+(Let's hear a yeeeeeeHAW!)
+
+
+
+As the comments scrolled on up his screen, he saw one with his name
+
+“If you want to get it fixed in head, escaping all this flame
+
+The community must change today, or with us you will ride
+
+Tryin’ to post the devil’s patch, amid endless outcry
+
+
+
+Yippie yi ooh
+
+Yippie yi yay
+
+
+
+Bike shedders in the sky
+
+Bike shedders in the sky
+
+Bike shedders in the sky
+
+
+
+***
+
+Come to the contribution sprints, Friday, April 13
+
+Mentored Core Sprint - 9-12:00, Stolz 2
+
+First Time Sprinter Workshop - 9-12:00, Stolz 2
+
+General Sprint - 9-12:00, Stolz 2
+
+#drupalsprint
+
+===
+
+
+
+***
+
 These Sprints are Made for Codin’
 ===
 
@@ -758,7 +792,7 @@ You keep blaming when you oughta not yet
 
 You keep Gruntin’ when you oughta be a Gulping
 
-Your CSS is right but you ain’t been right yet
+Your SaaS is right but it ain’t committed yet
 
 
 
@@ -818,3 +852,106 @@ The hordes of maintainers grew at every event
 The bugs went away so nobody would know
 
 There was ever bad code on the D dot O
+
+
+
+***
+
+Caffeine
+===
+
+
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+I’m begging of you please don’t let me down
+
+
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+Please I’ve got a deadline coming ‘round
+
+
+
+In cups of tea, you take good care
+
+Of worn out people everywhere
+
+First thing today, I ground my coffee beans
+
+
+
+First cup was like a breath of spring
+
+The next was good, it woke my brain
+
+And I cannot work without you
+
+Caffeine
+
+
+
+You keep me from the arms of sleep
+
+And there’s nothing I can do to keep
+
+From crying when my cup is done
+
+Caffeine
+
+
+
+And work gets really hard to do
+
+My being suffers without you
+
+But you don’t know what you mean to me,
+
+Caffeine
+
+
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+I’m begging of you please don’t let me down
+
+
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+Please I’ve got a deadline coming ‘round
+
+
+
+I could skip a day or ten
+
+But I could never work again
+
+Without the only drug for me
+
+Caffeine
+
+
+
+I have to have some more of you
+
+My happiness depends on you
+
+Espresso, Latte, or drip brew
+
+Caffeine
+
+
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+I’m begging of you please don’t let me down
+
+Caffeine, Caffeine, Caffeine, Caffeine
+
+I’m begging of you please don’t let me down
+
+
+
+Caffeine, Caffeine
