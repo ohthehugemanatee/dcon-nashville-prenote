@@ -6,7 +6,7 @@ Prenote Karaoke
 
 ***
 
-Friends in low basements
+Friends in Low Basements
 ===
 
 
@@ -178,7 +178,7 @@ Oh, I’ve got friends in low basements
 
 ***
 
-Stand by your code
+Stand by Your Code
 ===
 
 
@@ -539,7 +539,7 @@ Yeah!
 
 ***
 
-Bike shedders in the sky
+Bike Shedders in the Sky
 ===
 
 
@@ -629,7 +629,7 @@ Bike shedders in the sky
 <!--
 ***
 
-Man of inconsistent repos
+Man of Inconsistent Repos
 ===
 
 
@@ -788,7 +788,7 @@ There’ll be time enough commitin’, when the code is done.
 
 ***
 
-These Sprints are made for Codin’
+These Sprints are Made for Codin’
 ===
 
 
