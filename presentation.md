@@ -693,66 +693,95 @@ The Drupler
 
 
 On a warm summer’s evenin’ on a hyperloop for nowhere
+
 I met up with the Drupler, we were both too wired to sleep
+
 So we took turns a starin’ as the data stream got slower
+
 ‘Til boredom overtook us and we began to text
 
 
 
 She said son I made a life, out of readin’ people’s coding
+
 And knowing what the bugs were 
+
 by the way they crossed their eyes
+
 So if you don’t mind me saying, I can see your out of RAM,
+
 For a taste of your WiFi, I’ll give you some advice
 
 
 
 So I texted her my password and she pulled down my last data
+
 Then she sipped up her water and asked to turn down the light
+
 And the night got deathly quiet and her face lost all expression she said
+
 If you’re gonna code the Drupal, boy you gotta learn to code it right
 
 
 
 You got to know how to code em, know how to tag ‘em
+
 Know when Composer works, and just when to Drush
+
 You never ignore the comments, when you’re busy interdiffin’
+
 There’ll be time enough commitin’, when the code is done.
 
 
 
 Every Drupler knows that the secret to survivin’
+
 Is knowin’ what to comment out and what to keep
+
 Because every View is a winner and Overlays are losers
+
 And the best that you can hope for is to pass all your tests.
 
 
 
 And when she finished speakin’
+
 She turned off the WiFi
+
 Shut down her iPhone and passed out asleep
+
 And somewhere in the darkness, the Drupler, closed her repo
+
 But in her final words I found the code that I could share
 
 
 
 You got to know how to code em, know how to tag ‘em
+
 Know when Composer works, and just when to Drush
+
 You never ignore the comments, when you’re busy interdiffin’
+
 There’ll be time enough commitin’, when the code is done.
 
 
 
 You got to know how to code em, know how to tag ‘em
+
 Know when Composer works, and just when to Drush
+
 You never ignore the comments, when you’re busy interdiffin’
+
 There’ll be time enough commitin’, when the code is done.
 
 
 
 You got to know how to code em, know how to tag ‘em
+
 Know when Composer works, and just when to Drush
+
 You never ignore the comments, when you’re busy interdiffin’
+
 There’ll be time enough commitin’, when the code is done.
 
 
@@ -765,48 +794,64 @@ These Sprints are made for Codin’
 
 
 You keep saying Drupal 8 is for me
+
 Something you call love but confess
+
 You’ve been Word Pressin where you shouldn’t’ve been Word Pressin,
+
 Now your front end is all one big mess
 
 
 
 These sprints are made for coding
+
 And that’s just what we’ll do
+
 One of these days we’ll make a core committer out of you 
 
 
 
 You keep pulling when you should be pushing
+
 You keep blaming when you oughta not yet
+
 You keep Gruntin’ when you oughta be a Gulping
+
 Your CSS is right but you ain’t been right yet
 
 
 
 These sprints are made for coding
+
 And that’s just what we’ll do
+
 One of these days we’ll make a core committer out of you  
 
 
 
 You keep coding where you shouldn’t be coding
+
 And you keep thinking core is yours to mess (NO)
+
 I just found me a brand new repo to clone (YEAH)
+
 And what they knows you ain’t had time to learn
 
 
 
 These sprints are made for coding
+
 And that’s just what we’ll do
+
 One of these days we’ll make a core committer out of you 
+
 Are you ready, committer? Start codin’ ...
 
 
 
 ***
 
-TITLE
+D dot O!
 ===
 
 
