@@ -188,6 +188,24 @@ Oh, I’ve got friends in low basements
 
 
 
+Well I got friends in low basements
+
+Where cron runs backups
+
+And all the devops and admins play
+
+So we’ll be okay!
+
+
+
+Now I’ve been to some nerdy places
+
+But that server room is a geek oasis
+
+Oh, I’ve got friends in low basements
+
+
+
 (Oh no, is he really interrupting the song? This is totally unplanned!)
 
 
