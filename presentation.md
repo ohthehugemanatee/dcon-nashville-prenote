@@ -135,7 +135,9 @@ So we’ll be okay!
 
 
 Now I’ve been to some nerdy places
+
 But that server room is a geek oasis
+
 Oh, I’ve got friends in low basements
 
 
@@ -155,6 +157,7 @@ Now nothing looks right
 Not even line height
 
 And the front page just links to “Read more...”
+
 
 
 Hey I didn’t mean
