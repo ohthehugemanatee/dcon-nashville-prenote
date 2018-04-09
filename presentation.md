@@ -626,65 +626,6 @@ Bike shedders in the sky
 
 
 
-<!--
-***
-
-Man of Inconsistent Repos
-===
-
-
-
-I am a man of inconsistent repos
-
-I’ve seen trouble with all my clones
-
-I bid farewell to old D dot O
-
-The place where I was stored and shared
-
-
-
-Since Drupal six I’ve been in trouble
-
-My modules on joomla I found
-
-For in this world I’m bound to ramble
-
-I have no community to help me now
-
-
-
-Its fare thee well my old drupal
-
-I never expect to see Bartik again
-
-For I’m bound to ride that bootstrap road
-
-Perhaps I’ll commit again this sprint
-
-
-
-You can fork me in some deep framework
-
-For many years where I may decouple
-
-Then you may learn to love Drupal API
-
-While I am sleeping in my unpatched state
-
-
-
-Maybe your friends think I’m just a strange UI
-
-My yaml won’t parse no more
-
-But there is one promise that is given
-
-I’ll meet you on symphony’s golden shore
--->
-
-
-
 ***
 
 The Drupler
