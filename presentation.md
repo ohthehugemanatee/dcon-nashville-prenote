@@ -568,9 +568,9 @@ She turned off the WiFi
 
 Shut down her iPhone and passed out asleep
 
-And somewhere in the darkness, the Drupler, closed her repo
+And somewhere in the darkness, the Drupler, closed her laptop
 
-But in her final words I found the code that I could share
+But in her Pull Request I found the code that I could share
 
 
 
