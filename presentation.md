@@ -236,6 +236,28 @@ And you can kiss my SaaS!
 
 
 
+Well I got friends in low basements
+
+Where cron runs backups
+
+And all the devops and admins play
+
+So we’ll be okay!
+
+
+
+Now I’ve been to some nerdy places
+
+But that server room is a geek oasis
+
+Oh, I’ve got friends in low basements
+
+
+
+I've got friends ... in low basements
+
+
+
 ***
 
 Freelance Dev
