@@ -55,7 +55,7 @@ Oh be proud of it,
 
 
 
-*Stand by your code*,
+Stand by your code,
 
 Keep checking on the bug queue
 
