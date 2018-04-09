@@ -1,7 +1,7 @@
 Prenote Karaoke
 ===
 
-(don't worry, we'll control the slides from the stage)
+(Watch here and sing along! We'll control the slides from the stage)
 
 
 ***
