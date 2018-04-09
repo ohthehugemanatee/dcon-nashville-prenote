@@ -100,8 +100,6 @@ Couldn’t log in as root
 
 The database tables were bare
 
-
-
 The last one to know
 
 Site monitor’s slow
@@ -118,11 +116,9 @@ And had fear in my eyes
 
 When my boss asked me to explain.
 
-
-
 And I turned to you
 
-Said, “Buddy, we're through.”
+Said, “Buddy, we may be through.”
 
 But you just smiled and exclaimed ...
 
@@ -130,20 +126,16 @@ But you just smiled and exclaimed ...
 
 Well I got friends in low basements
 
-Where the admins lurk
+Where cron runs backups
 
-And a cron takes a backup every day
-
-
+And all the devops and admins play
 
 So we’ll be okay!
 
 
 
 Now I’ve been to some nerdy places
-
-But that server room’s a geek oasis
-
+But that server room is a geek oasis
 Oh, I’ve got friends in low basements
 
 
@@ -158,14 +150,11 @@ The config was gone
 
 But then, we’ve all been there before,
 
-
-
 Now nothing looks right
 
 Not even line height
 
 And the front page just links to “Read more...”
-
 
 
 Hey I didn’t mean
@@ -174,23 +163,19 @@ To cause a big scene
 
 Just give me ten minutes and then
 
-
-
 The site will be up
 
-Without even a hiccup
+Without a hiccup
 
-Just as it has been
+Just as it’s always been
 
 
 
 Well I got friends in low basements
 
-Where the admins lurk
+Where cron runs backups
 
-And a cron takes a backup every day
-
-
+And all the devops and admins play
 
 So we’ll be okay!
 
@@ -198,7 +183,7 @@ So we’ll be okay!
 
 Now I’ve been to some nerdy places
 
-But that server room’s a geek oasis
+But that server room is a geek oasis
 
 Oh, I’ve got friends in low basements
 
@@ -214,8 +199,6 @@ The config was gone
 
 But then, we’ve all been there before,
 
-
-
 Now nothing looks right
 
 Not even line height
@@ -224,39 +207,15 @@ And the front page just links to “Read more...”
 
 
 
-Hey I didn’t mean
-
-To cause a big scene
+Hey I didn’t mean to cause a big scene
 
 Just wait ‘till I rewrite this class
-
-
 
 ‘Cuz sooner or later
 
 I’ll be back in the code
 
 And you can kiss my SaaS!
-
-
-
-Well I got friends in low basements
-
-Where the admins lurk
-
-And a cron takes a backup every day
-
-
-
-So we’ll be okay!
-
-
-
-Now I’ve been to some nerdy places
-
-But that server room’s a geek oasis
-
-Oh, I’ve got friends in low basements
 
 
 
