@@ -626,7 +626,7 @@ Bike shedders in the sky
 
 
 
-<!---
+<!--
 ***
 
 Man of inconsistent repos
@@ -681,7 +681,7 @@ My yaml won’t parse no more
 But there is one promise that is given
 
 I’ll meet you on symphony’s golden shore
---->
+-->
 
 
 
