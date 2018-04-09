@@ -9,7 +9,11 @@ Prenote Karaoke
 Lyrics will appear here
 ===
 
+
+
 And we'll move them from the stage
+
+
 
 As we go along through the concert
 
