@@ -110,7 +110,7 @@ Who should have been there.
 
 
 
-I was caught by surprise
+I was caught by surprise 
 
 And had fear in my eyes
 
