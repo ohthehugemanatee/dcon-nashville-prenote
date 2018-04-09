@@ -626,7 +626,7 @@ As comments scrolled forever, he recalled Parkinson’s Law
 
 Yippee yi yay
 
-Yippie Yi yo
+Yippie yi yo
 
 The bike shedders in the sky
 
@@ -644,7 +644,7 @@ His speakers played a distant song, a melody he knew:
 
 Yippee yi yay
 
-Yippie Yi yo
+Yippie yi yo
 
 The bike shedders in the sky
 
@@ -660,9 +660,9 @@ The arguments went round and round, and he heard their mournful cry
 
 
 
-Yippie yi oh
-
 Yippie yi yay
+
+Yippie yi oh
 
 Bike shedders in the sky
 
@@ -682,9 +682,9 @@ Tryin’ to post the devil’s patch, amid endless outcry
 
 
 
-Yippie yi ooh
-
 Yippie yi yay
+
+Yippie yi ooh
 
 
 
