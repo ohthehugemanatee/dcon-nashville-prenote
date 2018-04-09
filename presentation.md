@@ -291,10 +291,13 @@ No longer screwed, screwed, screwed
 
 I just got hired
 
-I just got hired
 
-I just got hired
 
+He's not screwed, screwed, screwed
+
+He just got hired
+
+He just got hired
 
 
 ***
