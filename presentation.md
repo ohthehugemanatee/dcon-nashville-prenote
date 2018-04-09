@@ -17,7 +17,7 @@ And we'll move them from the stage
 
 As we go along through the concert
 
-... er Prenote!
+... Prenote!
 
 
 ***
@@ -31,8 +31,6 @@ Sometimes it’s hard to be a coder
 
 Giving all your nights to open source.
 
-
-
 You’ll have bad times
 
 And laggy run times
@@ -44,8 +42,6 @@ Seeing things that you just can’t debug
 If you love it, you’ll xdebug it,
 
 Even though it’s hard to understand
-
-
 
 And if you love it,
 
@@ -73,7 +69,7 @@ Keep giving all the code you can
 
 
 
-Stand by your code.
+Stand by your code
 
 
 
@@ -233,8 +229,6 @@ Work is a vital thing
 
 So I can buy my cowboy bling
 
-
-
 I code with wild desire
 
 But no… body wants to hire
@@ -314,8 +308,6 @@ Caffeine, Caffeine, Caffeine, Caffeine
 
 I’m begging of you please don’t let me down
 
-
-
 Caffeine, Caffeine, Caffeine, Caffeine
 
 Please I’ve got a deadline coming ‘round
@@ -364,8 +356,6 @@ Caffeine, Caffeine, Caffeine, Caffeine
 
 I’m begging of you please don’t let me down
 
-
-
 Caffeine, Caffeine, Caffeine, Caffeine
 
 Please I’ve got a deadline coming ‘round
@@ -400,9 +390,7 @@ Caffeine, Caffeine, Caffeine, Caffeine
 
 I’m begging of you please don’t let me down
 
-
-
-Caffeine, Caffeine
+... Caffeine, Caffeine
 
 
 
@@ -419,8 +407,6 @@ Loadin’, loadin’, loadin’,
 
 Loadin’, loadin’, loadin’,
 
-
-
 Loadin’, loadin’, loadin’,
 
 Uptime!
@@ -432,8 +418,6 @@ Loadin’, loadin’, loadin’,
 Keep that website loading,
 
 Keep that website loading, uptime!
-
-
 
 Though Amazon's not pinging, 
 
@@ -478,8 +462,6 @@ Codin’ codin’ codin’
 The issue queue’s exploding
 
 Keep them patches rollin', uptime!
-
-
 
 Though HEAD moves ever faster
 
@@ -832,8 +814,6 @@ Caffeine, Caffeine, Caffeine, Caffeine
 
 I’m begging of you please don’t let me down
 
-
-
 Caffeine, Caffeine, Caffeine, Caffeine
 
 Please I’ve got a deadline coming ‘round
@@ -881,8 +861,6 @@ Caffeine
 Caffeine, Caffeine, Caffeine, Caffeine
 
 I’m begging of you please don’t let me down
-
-
 
 Caffeine, Caffeine, Caffeine, Caffeine
 
