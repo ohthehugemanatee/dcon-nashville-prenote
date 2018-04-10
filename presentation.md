@@ -484,9 +484,9 @@ TTL!    And expires!
 
 And expires!     TTL!
 
-TTL!
+TTL! And expires!
 
-And expires!  Uptime!
+Uptime!
 
 
 
