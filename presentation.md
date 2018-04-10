@@ -15,10 +15,40 @@ And we'll move them from the stage
 
 
 
-As we go along through the concert
+If you can read this, your phone is working.
 
-... Prenote!
 
+
+To confirm that you can read this, please start cheering.
+
+Go ahead, ignore what Jam is saying. 
+
+Just cheer!
+
+
+
+Ok now we're going to all say "yee-haw" together. 
+
+Are you ready?
+
+
+
+Set...
+
+
+
+GO!!
+
+YEEEEEEEEEEHAW!
+===
+
+
+
+OK, now I think you're ready.
+
+I'll let Jam and Cam know to get on with it.
+
+Thanks for joining in... and have a great Prenote!
 
 ***
 
