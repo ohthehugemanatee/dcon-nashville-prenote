@@ -484,9 +484,9 @@ TTL!    And expires!
 
 And expires!     TTL!
 
-TTL!    And expires!
+TTL!
 
-Uptime!
+And expires!  Uptime!
 
 
 
@@ -494,9 +494,9 @@ Cache-Control!      304!
 
 304!     Cache-Control!
 
-304!     Cache-Control,
+304!
 
-Uptime!
+Cache-Control, Uptime!
 
 
 
@@ -536,9 +536,9 @@ Fetch a change, get the diff
 
 ‘vert the head, add the patch,
 
-Cut a tag, push it out
+Cut a tag,
 
-Uptime!
+Push it out, uptime!
 
 
 
