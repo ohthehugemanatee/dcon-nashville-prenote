@@ -19,11 +19,16 @@ If you can read this, your phone is working.
 
 
 
-To confirm that you can read this, please start cheering.
+To confirm that you can read this, we're going to start cheering.
 
-Go ahead, ignore what Jam is saying. 
+We'll do it over top of Jam's talking.
 
-Just cheer!
+Just cheer!  Are you ready?
+
+
+
+WOOOOHOOOOOOO!
+===
 
 
 
